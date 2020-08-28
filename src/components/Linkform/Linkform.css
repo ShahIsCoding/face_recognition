@@ -1,0 +1,16 @@
+.centre{
+	display:flex;
+	justify-content:center;
+}
+.r{
+	
+	border-radius: 20px;
+}
+button{
+	background: rgb(34,193,195);
+ 	background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(69,15,95,1) 100%);
+	opacity: 0.75;
+}
+input{
+	opacity: 0.85;
+}

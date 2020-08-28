@@ -1,0 +1,31 @@
+.particles{
+	position: fixed;
+	top:0;
+	right:0;
+	bottom:0;
+	left: 0;
+	z-index: -1;
+}
+.w{
+	color: white;
+}
+.txtshadow{
+text-shadow: 0px 0px 10px white;
+}
+.tm{
+margin-top: 100px;
+}
+.center{
+	display:flex;
+	justify-content: center;
+}
+.pos{
+	position: static;
+}
+.por{
+	position:relative;
+}
+.pof{
+	position: fixed;
+	z-index: -1;
+}

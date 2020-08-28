@@ -1,0 +1,9 @@
+.txtshadow{
+text-shadow: 0px 0px 5px grey;
+}
+.Tilt{
+	text-align: center;
+}
+.pos{
+	position: fixed;
+}
